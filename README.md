@@ -1,2 +1,2 @@
 ## ini adalah repository untuk latihan-branch
-Branch Main
+Learn Github and Happy Coding!
