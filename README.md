@@ -1,2 +1,2 @@
-## ini adalah repository untuk latihan-branch
+## Just  Learn
 Learn Github and Happy Coding!
